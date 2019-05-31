@@ -1,0 +1,9 @@
+{
+  "hostname": "www.si.t.u-tokyo.ac.jp",
+  "path": "/student/",
+  "auth": "",
+  "target": {
+    "sdm": "SDM",
+    "other": "その他"
+  }
+}

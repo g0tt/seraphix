@@ -1,0 +1,23 @@
+{
+  "name": "seraphix",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g0tt/seraphix.git"
+  },
+  "author": "gott <gott@gott.jp> (http://gott.jp/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g0tt/seraphix/issues"
+  },
+  "homepage": "https://github.com/g0tt/seraphix#readme",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jsdom": "^15.1.1"
+  }
+}
