@@ -18,6 +18,6 @@
   "homepage": "https://github.com/g0tt/seraphix#readme",
   "dependencies": {
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1"
+    "jsdom": "^16.5.0"
   }
 }
